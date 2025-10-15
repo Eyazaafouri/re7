@@ -46,28 +46,7 @@ Cette application s’adresse aux particuliers passionnés de cuisine 👩‍�
 
 ---
 
-## 🧩 Structure du projet
 
-```
-
-app-culinaire/
-├── app/
-│   ├── Http/
-│   ├── Models/
-│   └── Controllers/
-├── resources/
-│   ├── views/
-│   └── css/
-├── public/
-│   ├── images/
-│   └── js/
-├── routes/
-│   └── web.php
-└── database/
-
-````
-
----
 
 ## ⚙️ Installation et exécution
 
