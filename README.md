@@ -1,9 +1,4 @@
-Très bonne idée Aya 🌸 — un **README bien rédigé** est essentiel pour rendre ton projet professionnel et clair sur GitHub 💪
 
-Voici un exemple **amélioré, complet et élégant** pour ton application culinaire Laravel 🍲
-Tu pourras le copier directement dans ton fichier `README.md` et l’adapter à ton style 👇
-
----
 
 ```markdown
 # 🍽️ Application Culinaire Laravel
