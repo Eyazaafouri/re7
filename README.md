@@ -101,7 +101,7 @@ Il vise à combiner les compétences en **développement web, gestion de base de
 
 **Aya Zaafouri**
 🎓 Étudiante en ingénierie informatique à ITEAM University
-📍 Zahrouni, Tunisie
+📍 Tunisie
 💌 eyazaafouri11@gmail.com
 
 ## 🌟 Améliorations futures
